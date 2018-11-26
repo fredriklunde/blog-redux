@@ -1,3 +1,5 @@
+![Alt text](/public/screenshots/blog_image.PNG "Screenshot")
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
