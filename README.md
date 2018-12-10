@@ -1,3 +1,5 @@
+This Project gets a list of posts from a mock api called https://jsonplaceholder.typicode.com and displays them in an orderly manner according to the screenshot seen below.
+
 ![Alt text](/public/screenshots/blog_image.PNG "Screenshot")
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
